@@ -11,7 +11,7 @@ navigate to your file-path in terminal, where your file is placed, with
 
   cd [path]
 
-run shmup.py with python:
+run main.py with python:
 
-  python3 shmup.py
+  python3 main.py
 
